@@ -1,0 +1,2 @@
+# UAV-Based-Pavement-Distress-Classification-Patch-Level-CNN-Model-
+This project builds a complete computer vision pipeline for detecting pavement distress (cracks, defects) in UAV runway imagery using deep learning, Python, and TensorFlow. The system automatically parses XML annotations, extracts high-quality training patches, and trains a CNN classifier to distinguish distressed vs healthy pavement tiles.
